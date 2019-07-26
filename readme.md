@@ -2,6 +2,8 @@
 
 Configured for typescript + react
 
+[![Build Status](https://travis-ci.com/sevenwestmedia-labs/eslint-config-wanews.svg?branch=master)](https://travis-ci.com/sevenwestmedia-labs/eslint-config-wanews)
+
 ## Config
 
 ### .vscode/settings.json
