@@ -16,10 +16,7 @@
   },
   "homepage": "https://github.com/sevenwestmedia-labs/wan-eslint-config#readme",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^1.13.0",
-    "@typescript-eslint/parser": "^1.13.0",
-    "eslint": "^5.16.0",
-    "eslint-config-prettier": "^6.0.0",
+    "eslint-config-wanews-base": "^1.0.0",
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^1.6.1"
   },
