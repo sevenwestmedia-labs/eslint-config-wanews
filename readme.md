@@ -2,7 +2,7 @@
 
 Configured for typescript + react
 
-[![Build Status](https://travis-ci.com/sevenwestmedia-labs/eslint-config-wanews.svg?branch=master)](https://travis-ci.com/sevenwestmedia-labs/eslint-config-wanews)
+[![Build Status](https://travis-ci.com/sevenwestmedia-labs/eslint-config-wanews.svg?branch=master)](https://travis-ci.com/sevenwestmedia-labs/eslint-config-wanews) [![Greenkeeper badge](https://badges.greenkeeper.io/sevenwestmedia-labs/eslint-config-wanews.svg)](https://greenkeeper.io/)
 
 ## Config
 
