@@ -45,10 +45,10 @@ es-to-primitive@^1.2.0:
     is-date-object "^1.0.1"
     is-symbol "^1.0.2"
 
-eslint-config-wanews-base@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-wanews-base/-/eslint-config-wanews-base-2.0.0.tgz#9715134a0d74295fb0cfaa95526429cebfe4bf60"
-  integrity sha512-QHhgMl78NjNmgErRp4pM9hfQ/NyKyv/5LjCSuVjQkA5Ro1HycBWC5MDox2UQqohIaXUtALDK7gnR5BvWDhGt5g==
+eslint-config-wanews-base@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/eslint-config-wanews-base/-/eslint-config-wanews-base-2.0.2.tgz#059f4792f14725bb5973d898569c9f7d32aa799e"
+  integrity sha512-9vOaGzfXg5+XsO4+Tb1xNRgG7pTKQtouj7N70M7vaiLG0iAkolAa3ptTgc6K+S+cLC1BnYC7xPuztj+FfiCiQA==
 
 eslint-plugin-react-hooks@^2.0.1:
   version "2.0.1"
