@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "changeset": "changeset",
-    "release": "yarn verify && changeset publish"
+    "release": "changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.4.1",
