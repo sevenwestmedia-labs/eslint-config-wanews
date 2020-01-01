@@ -1,32 +1,10 @@
-# WANews eslint config
+# WANews eslint configs
 
-Configured for typescript + react
+See `/packages` folder
 
-[![Build Status](https://travis-ci.com/sevenwestmedia-labs/eslint-config-wanews.svg?branch=master)](https://travis-ci.com/sevenwestmedia-labs/eslint-config-wanews) [![Greenkeeper badge](https://badges.greenkeeper.io/sevenwestmedia-labs/eslint-config-wanews.svg)](https://greenkeeper.io/)
 
-## Config
-
-### .vscode/settings.json
-
-```json
-"eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    { "language": "typescript", "autoFix": true },
-    { "language": "typescriptreact", "autoFix": true }
-]
-```
-
-### .eslintrc
-
-```json
-{
-  "extends": ["wanews"]
-}
-```
-
-### .eslintignore
+### package.json
 
 ```
-dist
+"lint": "eslint --ext .js,.ts ."
 ```
