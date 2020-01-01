@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-wanews",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/sevenwestmedia-labs/wan-eslint-config#readme",
   "dependencies": {
-    "eslint-config-wanews-base": "^2.0.2"
+    "eslint-config-wanews-base": "^2.1.0"
   },
   "peerDependencies": {
     "eslint-plugin-react": "^7.17.0",
