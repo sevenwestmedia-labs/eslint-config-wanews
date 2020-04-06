@@ -19,7 +19,7 @@
     "eslint-config-wanews-base": "^2.1.0"
   },
   "peerDependencies": {
-    "eslint-plugin-react": "^7.17.0",
-    "eslint-plugin-react-hooks": "^2.3.0"
+    "eslint-plugin-react": ">=7.19.0",
+    "eslint-plugin-react-hooks": ">=3.0.0"
   }
 }
